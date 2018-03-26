@@ -1,0 +1,17 @@
+{
+  "name": "nodebott",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.14.1",
+    "oled-font-5x7": "^1.0.1",
+    "oled-js": "^4.0.5",
+    "png-to-lcd": "^1.0.3"
+  }
+}
